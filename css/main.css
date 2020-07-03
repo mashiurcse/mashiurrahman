@@ -156,7 +156,7 @@ h3 {
     outline: none;
 }
 .toggle-btn .icon-bar {
-    background-color: #FFCB2F;
+    background-color: #f01818;
     display: block;
     height: 2px;
     margin-bottom: 5px;
@@ -199,7 +199,7 @@ h3 {
     visibility: visible;
 }
 .mainmenu .navbar-nav li a {
-    color: #fff;
+    color: rgb(223, 43, 43);
     text-transform: capitalize;
     font-size: 14px;
     letter-spacing: 1px;
