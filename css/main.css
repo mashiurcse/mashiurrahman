@@ -126,8 +126,8 @@ h3 {
     z-index: 999999;
 }
 .nav-logo-wrap .logo img {
-    padding-top: 8px;
-	width: 40%;
+    padding-top: 2px;
+	width: 30%;
 }
 .site-header #logo-dark,
 .nav-logo-wrap .logo:after,
