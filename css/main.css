@@ -199,18 +199,18 @@ h3 {
     visibility: visible;
 }
 .mainmenu .navbar-nav li a {
-    color: rgb(223, 43, 43);
-    text-transform: capitalize;
+    color: rgba(185, 34, 34, 0.932);
+    text-transform: uppercase;
     font-size: 14px;
     letter-spacing: 1px;
     padding: 30px 15px;
     -webkit-transition: .3s;
     transition: .3s;
-    font-weight: 600;
+    font-weight: 700;
 }
 .mainmenu .navbar-nav li a:hover {
     background: none;
-    color: #FFCB2F;
+    color: #21c7e4;
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
 }
