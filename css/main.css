@@ -73,7 +73,7 @@ h3 {
 .white-bg {
     background-color: #fff;
 }
-.orange-text { color: #fea60e }
+.orange-text { color: #441214 }
 
 
 .bg-overlay {
@@ -156,7 +156,7 @@ h3 {
     outline: none;
 }
 .toggle-btn .icon-bar {
-    background-color: #f01818;
+    background-color: #441214;
     display: block;
     height: 2px;
     margin-bottom: 5px;
@@ -199,7 +199,7 @@ h3 {
     visibility: visible;
 }
 .mainmenu .navbar-nav li a {
-    color: rgba(185, 34, 34, 0.932);
+    color: #441214;
     text-transform: uppercase;
     font-size: 14px;
     letter-spacing: 1px;
@@ -235,7 +235,7 @@ h3 {
     transition: all 0.3s ease-out;
 }
 .menu-bg .mainmenu .navbar-nav li a {
-    color: #fff;
+    color: #441214;
     padding: 20px 15px;
     -webkit-transition: .3s;
     transition: .3s;
