@@ -18,10 +18,10 @@
     visibility: visible;
   }
   .navbar-toggle .icon-bar {
-    background: #ffcb2f;
+    background: #940e0e;
   }
   .menu-bg .navbar-toggle .icon-bar {
-    background: #ffcb2f;
+    background: #940e0e;
   }
   .navbar-toggle {
     margin-right: 0px;
@@ -34,10 +34,10 @@
     padding: 11px 15px;
   }
   .mainmenu .navbar-nav li a:hover {
-    color: #ffcb2f;
+    color: #940e0e;
   }
   .menu-bg .mainmenu .navbar-nav li a:hover {
-    color: #ffcb2f;
+    color: #940e0e;
   }
   .menu-bg .mainmenu .navbar-nav li a {
     padding: 11px 15px;
@@ -53,7 +53,7 @@
     background: rgba(173, 171, 171, 0.9);
   }
   .menu-bg .navbar-collapse {
-    background: rgba(0, 0, 0, 0.9);
+    background: rgba(173, 171, 171, 0.9);
   }
 }
 
